@@ -1,6 +1,7 @@
 ### Index
 
 * [JavaScript](#javascript)
+* [Language Agnostic](#language-agnostic)
 * [Python](#python)
 * [Swift](#swift)
 
@@ -9,6 +10,13 @@
 
 * [Async Talk](https://asynctalk.com)
 * [Web Worker 播客](https://www.webworker.tech)
+
+
+### Language Agnostic
+
+* [牛油果烤面包](https://avocadotoast.typlog.io)
+* [二分电台](https://binary.2bab.me)
+* [枫言枫语](https://fyfy.fm)
 
 
 ### Python
