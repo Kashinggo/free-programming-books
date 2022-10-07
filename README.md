@@ -131,7 +131,6 @@ This project lists books and other resources grouped by genres:
 + [Arabic / al arabiya / العربية](courses/free-courses-ar.md)
 + [Bengali / বাংলা](courses/free-courses-bn.md)
 + [Bulgarian / български](courses/free-courses-bg.md)
-+ [Chinese](courses/free-courses-zh.md)
 + [English](courses/free-courses-en.md)
 + [Finnish](courses/free-courses-fi.md)
 + [French / français](courses/free-courses-fr.md)
